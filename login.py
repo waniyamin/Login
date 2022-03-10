@@ -3,9 +3,8 @@ import os.path
 from getpass import getpass
 os.system("clear")
 def banner():
-	print("\033[1;36;40m_                                   _                _")
-	print("                     ,.
-                   ,_> `.   ,';
+	print("\033[1;36;40m_                                 
+   print(  "    ,_> `.   ,';      ")
                ,-`'      `'   '`'._
             ,,-) ---._   |   .---''`-),.
           ,'      `.  \  ;  /   _,'     `,
@@ -36,10 +35,9 @@ def banner():
                   '; /   ;        (
                    _)|   `       (
                    `')         .-'
-                     <_   \   /    hjw
+                     <_   \   /    
                        \   /\(
-                        `;/  `
-\033[0m")
+                        `;/  `\033[0m")
 	print("                \033[1;34;40m authorRRR by \033[1;33;40mWANI YAMIN\033[0m")
 	print("")
 banner()
