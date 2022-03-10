@@ -39,7 +39,7 @@ print(  "                                <_   \   /          ")
 print(  "                                  \   /\(      ")
 print(  "                                  `;/  `      \033[1;34;40m") 
 print(  "                  authorRRR by \033[1;33;40mWANI YAMIN\033[0m")
-	print("")
+
 banner()
 
 def reset():
