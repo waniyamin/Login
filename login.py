@@ -3,7 +3,7 @@ import os.path
 from getpass import getpass
 os.system("clear")
 def banner():
-	print("\033[1;36;40m_                                 
+	print("\033[1;36;40m_                             ")    
 print(  "                           ,_> `.   ,';      ")
 print(  "                          ,-`'      `'   '`'._      ")
 print(  "                       ,,-) ---._   |   .---''`-),.      ")
